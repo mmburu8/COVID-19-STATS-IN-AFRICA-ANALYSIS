@@ -1,0 +1,1081 @@
+COUNTRY_NAME,months,year,infected,recovered,deceased
+Algeria,Jan,2020,0,0,0
+Algeria,Feb,2020,1,0,0
+Algeria,Mar,2020,716,46,44
+Algeria,Apr,2020,4006,1779,450
+Algeria,May,2020,9394,5748,653
+Algeria,Jun,2020,13907,9897,904
+Algeria,Jul,2020,30394,20537,1212
+Algeria,Aug,2020,44494,31244,1510
+Algeria,Sep,2020,51530,36174,1734
+Algeria,Oct,2020,57942,40201,1964
+Algeria,Nov,2020,83199,53809,2431
+Algeria,Dec,2020,99610,67127,2756
+Algeria,Jan,2021,107339,73344,2891
+Algeria,Feb,2021,113092,78098,2983
+Algeria,Mar,2021,117192,81538,3093
+Algeria,Apr,2021,122108,85108,3253
+Algeria,May,2021,129013,89839,3472
+Algeria,Jun,2021,139626,97089,3716
+Algeria,Jul,2021,171392,115276,4254
+Algeria,Aug,2021,190656,129069,4957
+Angola,Jan,2020,0,0,0
+Angola,Feb,2020,0,0,0
+Angola,Mar,2020,7,1,2
+Angola,Apr,2020,27,11,2
+Angola,May,2020,86,18,4
+Angola,Jun,2020,284,93,13
+Angola,Jul,2020,1148,437,52
+Angola,Aug,2020,2654,1071,108
+Angola,Sep,2020,4972,1941,183
+Angola,Oct,2020,10805,4523,284
+Angola,Nov,2020,15139,7851,348
+Angola,Dec,2020,17553,11044,405
+Angola,Jan,2021,19796,18035,466
+Angola,Feb,2021,20807,19322,508
+Angola,Mar,2021,22311,20493,537
+Angola,Apr,2021,26652,23876,596
+Angola,May,2021,34551,28079,766
+Angola,Jun,2021,38849,33242,900
+Angola,Jul,2021,42777,37255,1011
+Angola,Aug,2021,45175,41977,1125
+Benin,Jan,2020,0,0,0
+Benin,Feb,2020,0,0,0
+Benin,Mar,2020,6,1,0
+Benin,Apr,2020,64,27,1
+Benin,May,2020,243,147,3
+Benin,Jun,2020,1199,333,21
+Benin,Jul,2020,1770,1036,36
+Benin,Aug,2020,2194,1793,40
+Benin,Sep,2020,2357,1973,41
+Benin,Oct,2020,2683,2455,41
+Benin,Nov,2020,2974,2579,43
+Benin,Dec,2020,3251,3061,44
+Benin,Jan,2021,3893,3421,52
+Benin,Feb,2021,5634,4248,70
+Benin,Mar,2021,7100,6452,90
+Benin,Apr,2021,7821,7580,99
+Benin,May,2021,8058,7893,101
+Benin,Jun,2021,8199,8000,104
+Benin,Jul,2021,8394,8136,107
+Benin,Aug,2021,10183,8136,107
+Botswana,Jan,2020,0,0,0
+Botswana,Feb,2020,0,0,0
+Botswana,Mar,2020,4,0,1
+Botswana,Apr,2020,23,5,1
+Botswana,May,2020,35,20,1
+Botswana,Jun,2020,227,28,1
+Botswana,Jul,2020,894,63,2
+Botswana,Aug,2020,1724,493,6
+Botswana,Sep,2020,3172,710,16
+Botswana,Oct,2020,6642,4676,24
+Botswana,Nov,2020,9992,7912,31
+Botswana,Dec,2020,14025,12136,40
+Botswana,Jan,2021,21293,17198,134
+Botswana,Feb,2021,28370,23244,310
+Botswana,Mar,2021,39848,36958,568
+Botswana,Apr,2021,46934,44960,712
+Botswana,May,2021,56313,51259,831
+Botswana,Jun,2021,70071,63932,1125
+Botswana,Jul,2021,106690,95323,1569
+Botswana,Aug,2021,146461,111411,2081
+Burkina Faso,Jan,2020,0,0,0
+Burkina Faso,Feb,2020,0,0,0
+Burkina Faso,Mar,2020,282,46,16
+Burkina Faso,Apr,2020,649,517,44
+Burkina Faso,May,2020,884,751,53
+Burkina Faso,Jun,2020,980,852,53
+Burkina Faso,Jul,2020,1150,947,53
+Burkina Faso,Aug,2020,1378,1079,55
+Burkina Faso,Sep,2020,2123,1385,59
+Burkina Faso,Oct,2020,2517,2281,67
+Burkina Faso,Nov,2020,3010,2667,68
+Burkina Faso,Dec,2020,6828,5152,85
+Burkina Faso,Jan,2021,10768,9397,121
+Burkina Faso,Feb,2021,12030,11588,143
+Burkina Faso,Mar,2021,12774,12420,149
+Burkina Faso,Apr,2021,13319,13053,157
+Burkina Faso,May,2021,13435,13256,167
+Burkina Faso,Jun,2021,13485,13308,168
+Burkina Faso,Jul,2021,13588,13380,169
+Burkina Faso,Aug,2021,13699,13411,169
+Burundi,Jan,2020,0,0,0
+Burundi,Feb,2020,0,0,0
+Burundi,Mar,2020,2,0,0
+Burundi,Apr,2020,19,7,1
+Burundi,May,2020,63,33,1
+Burundi,Jun,2020,191,128,1
+Burundi,Jul,2020,387,304,1
+Burundi,Aug,2020,445,357,1
+Burundi,Sep,2020,508,472,1
+Burundi,Oct,2020,585,511,1
+Burundi,Nov,2020,688,575,1
+Burundi,Dec,2020,818,687,2
+Burundi,Jan,2021,1632,773,2
+Burundi,Feb,2021,2209,773,3
+Burundi,Mar,2021,2810,773,6
+Burundi,Apr,2021,3995,773,6
+Burundi,May,2021,4790,773,6
+Burundi,Jun,2021,5452,773,8
+Burundi,Jul,2021,7268,773,8
+Burundi,Aug,2021,10791,773,8
+Cameroon,Jan,2020,0,0,0
+Cameroon,Feb,2020,0,0,0
+Cameroon,Mar,2020,193,10,6
+Cameroon,Apr,2020,2069,934,61
+Cameroon,May,2020,6143,3578,197
+Cameroon,Jun,2020,12592,10100,313
+Cameroon,Jul,2020,17255,15320,391
+Cameroon,Aug,2020,19142,17651,411
+Cameroon,Sep,2020,20838,19440,418
+Cameroon,Oct,2020,21793,20117,426
+Cameroon,Nov,2020,24445,22177,437
+Cameroon,Dec,2020,26277,24892,448
+Cameroon,Jan,2021,30698,28045,462
+Cameroon,Feb,2021,33749,32594,523
+Cameroon,Mar,2021,47669,35261,721
+Cameroon,Apr,2021,65998,64572,991
+Cameroon,May,2021,77982,73974,1270
+Cameroon,Jun,2021,80858,78224,1324
+Cameroon,Jul,2021,82064,80433,1334
+Cameroon,Aug,2021,82454,80433,1338
+Central African Republic,Jan,2020,0,0,0
+Central African Republic,Feb,2020,0,0,0
+Central African Republic,Mar,2020,6,3,0
+Central African Republic,Apr,2020,64,10,0
+Central African Republic,May,2020,1069,23,4
+Central African Republic,Jun,2020,3745,787,47
+Central African Republic,Jul,2020,4605,1635,59
+Central African Republic,Aug,2020,4700,1790,62
+Central African Republic,Sep,2020,4829,1840,62
+Central African Republic,Oct,2020,4866,1924,62
+Central African Republic,Nov,2020,4913,1924,63
+Central African Republic,Dec,2020,4963,1924,63
+Central African Republic,Jan,2021,4989,4885,63
+Central African Republic,Feb,2021,4997,4920,63
+Central African Republic,Mar,2021,5161,4957,67
+Central African Republic,Apr,2021,6411,5112,88
+Central African Republic,May,2021,7085,6859,98
+Central African Republic,Jun,2021,7141,6859,98
+Central African Republic,Jul,2021,7151,6859,98
+Central African Republic,Aug,2021,11251,6859,98
+Chad,Jan,2020,0,0,0
+Chad,Feb,2020,0,0,0
+Chad,Mar,2020,7,0,0
+Chad,Apr,2020,73,33,5
+Chad,May,2020,778,491,65
+Chad,Jun,2020,866,781,74
+Chad,Jul,2020,936,813,75
+Chad,Aug,2020,1013,880,77
+Chad,Sep,2020,1200,1007,85
+Chad,Oct,2020,1483,1314,98
+Chad,Nov,2020,1688,1525,101
+Chad,Dec,2020,2077,1704,104
+Chad,Jan,2021,3347,2464,118
+Chad,Feb,2021,3973,3475,140
+Chad,Mar,2021,4523,4140,164
+Chad,Apr,2021,4810,4423,170
+Chad,May,2021,4929,4746,173
+Chad,Jun,2021,4951,4769,174
+Chad,Jul,2021,4973,4792,174
+Chad,Aug,2021,4984,4800,174
+Comoros,Jan,2020,0,0,0
+Comoros,Feb,2020,0,0,0
+Comoros,Mar,2020,0,0,0
+Comoros,Apr,2020,1,0,0
+Comoros,May,2020,132,26,2
+Comoros,Jun,2020,302,200,7
+Comoros,Jul,2020,385,330,7
+Comoros,Aug,2020,423,399,7
+Comoros,Sep,2020,479,464,7
+Comoros,Oct,2020,545,498,7
+Comoros,Nov,2020,611,586,7
+Comoros,Dec,2020,823,705,10
+Comoros,Jan,2021,2726,1731,93
+Comoros,Feb,2021,3571,3314,144
+Comoros,Mar,2021,3698,3526,146
+Comoros,Apr,2021,3838,3674,146
+Comoros,May,2021,3882,3719,146
+Comoros,Jun,2021,3944,3765,146
+Comoros,Jul,2021,4028,3869,147
+Comoros,Aug,2021,4048,3881,147
+Congo,Jan,2020,0,0,0
+Congo,Feb,2020,0,0,0
+Congo,Mar,2020,19,2,2
+Congo,Apr,2020,220,19,9
+Congo,May,2020,611,179,20
+Congo,Jun,2020,1245,473,40
+Congo,Jul,2020,3200,829,54
+Congo,Aug,2020,3979,1742,78
+Congo,Sep,2020,5089,3995,89
+Congo,Oct,2020,5290,4981,92
+Congo,Nov,2020,5774,4988,94
+Congo,Dec,2020,7107,5846,108
+Congo,Jan,2021,7887,5846,117
+Congo,Feb,2021,8820,7019,128
+Congo,Mar,2021,9681,8208,135
+Congo,Apr,2021,10678,8208,144
+Congo,May,2021,11658,8208,153
+Congo,Jun,2021,12596,11211,165
+Congo,Jul,2021,13186,12421,178
+Congo,Aug,2021,13398,12421,179
+Cote d'Ivoire,Jan,2020,0,0,0
+Cote d'Ivoire,Feb,2020,0,0,0
+Cote d'Ivoire,Mar,2020,179,7,1
+Cote d'Ivoire,Apr,2020,1275,574,14
+Cote d'Ivoire,May,2020,2833,1435,33
+Cote d'Ivoire,Jun,2020,9499,4273,68
+Cote d'Ivoire,Jul,2020,16047,11428,102
+Cote d'Ivoire,Aug,2020,18067,16699,117
+Cote d'Ivoire,Sep,2020,19724,19291,120
+Cote d'Ivoire,Oct,2020,20716,20365,126
+Cote d'Ivoire,Nov,2020,21331,20964,132
+Cote d'Ivoire,Dec,2020,22490,21934,138
+Cote d'Ivoire,Jan,2021,28399,26007,154
+Cote d'Ivoire,Feb,2021,32754,31624,192
+Cote d'Ivoire,Mar,2021,43889,40254,244
+Cote d'Ivoire,Apr,2021,46036,45526,286
+Cote d'Ivoire,May,2021,47292,46702,305
+Cote d'Ivoire,Jun,2021,48305,47834,313
+Cote d'Ivoire,Jul,2021,49913,49117,326
+Cote d'Ivoire,Aug,2021,53249,50069,380
+Democratic Republic of the Congo,Jan,2020,0,0,0
+Democratic Republic of the Congo,Feb,2020,0,0,0
+Democratic Republic of the Congo,Mar,2020,109,3,8
+Democratic Republic of the Congo,Apr,2020,572,73,31
+Democratic Republic of the Congo,May,2020,3195,454,72
+Democratic Republic of the Congo,Jun,2020,7122,1785,175
+Democratic Republic of the Congo,Jul,2020,9084,7030,215
+Democratic Republic of the Congo,Aug,2020,10104,9322,259
+Democratic Republic of the Congo,Sep,2020,10685,10165,272
+Democratic Republic of the Congo,Oct,2020,11373,10768,308
+Democratic Republic of the Congo,Nov,2020,12859,11663,335
+Democratic Republic of the Congo,Dec,2020,17850,14701,591
+Democratic Republic of the Congo,Jan,2021,22842,15033,673
+Democratic Republic of the Congo,Feb,2021,25962,18951,707
+Democratic Republic of the Congo,Mar,2021,28199,25508,745
+Democratic Republic of the Congo,Apr,2021,29904,26250,768
+Democratic Republic of the Congo,May,2021,31816,27666,786
+Democratic Republic of the Congo,Jun,2021,41353,28422,933
+Democratic Republic of the Congo,Jul,2021,50017,29944,1023
+Democratic Republic of the Congo,Aug,2021,54009,30380,1023
+Djibouti,Jan,2020,0,0,0
+Djibouti,Feb,2020,0,0,0
+Djibouti,Mar,2020,30,0,0
+Djibouti,Apr,2020,1089,642,2
+Djibouti,May,2020,3354,1504,24
+Djibouti,Jun,2020,4682,4524,54
+Djibouti,Jul,2020,5126,5004,59
+Djibouti,Aug,2020,5387,5323,60
+Djibouti,Sep,2020,5416,5344,61
+Djibouti,Oct,2020,5561,5441,61
+Djibouti,Nov,2020,5679,5584,61
+Djibouti,Dec,2020,5831,5728,61
+Djibouti,Jan,2021,5932,5845,63
+Djibouti,Feb,2021,6066,5897,63
+Djibouti,Mar,2021,8002,6460,70
+Djibouti,Apr,2021,11100,10708,143
+Djibouti,May,2021,11533,11369,153
+Djibouti,Jun,2021,11602,11445,155
+Djibouti,Jul,2021,11651,11490,155
+Djibouti,Aug,2021,11690,11503,155
+Egypt,Jan,2020,0,0,0
+Egypt,Feb,2020,1,1,0
+Egypt,Mar,2020,710,157,46
+Egypt,Apr,2020,5537,1381,392
+Egypt,May,2020,24985,6037,959
+Egypt,Jun,2020,68311,18460,2953
+Egypt,Jul,2020,94078,39638,4805
+Egypt,Aug,2020,98939,72929,5421
+Egypt,Sep,2020,103198,96494,5930
+Egypt,Oct,2020,107555,99452,6266
+Egypt,Nov,2020,115911,102718,6650
+Egypt,Dec,2020,138062,112105,7631
+Egypt,Jan,2021,165951,129636,9316
+Egypt,Feb,2021,182424,140892,10688
+Egypt,Mar,2021,202131,154694,11995
+Egypt,Apr,2021,227552,170773,13339
+Egypt,May,2021,262650,192112,15104
+Egypt,Jun,2021,281282,211384,16177
+Egypt,Jul,2021,284262,230368,16524
+Egypt,Aug,2021,285995,235424,16654
+Equatorial Guinea,Jan,2020,0,0,0
+Equatorial Guinea,Feb,2020,0,0,0
+Equatorial Guinea,Mar,2020,15,1,0
+Equatorial Guinea,Apr,2020,315,9,1
+Equatorial Guinea,May,2020,1306,200,12
+Equatorial Guinea,Jun,2020,2350,515,32
+Equatorial Guinea,Jul,2020,4821,2182,83
+Equatorial Guinea,Aug,2020,4941,3884,83
+Equatorial Guinea,Sep,2020,5045,4879,83
+Equatorial Guinea,Oct,2020,5088,4965,83
+Equatorial Guinea,Nov,2020,5156,5009,85
+Equatorial Guinea,Dec,2020,5277,5136,86
+Equatorial Guinea,Jan,2021,5533,5286,86
+Equatorial Guinea,Feb,2021,6005,5622,91
+Equatorial Guinea,Mar,2021,6914,6495,102
+Equatorial Guinea,Apr,2021,7694,7279,112
+Equatorial Guinea,May,2021,8529,8146,118
+Equatorial Guinea,Jun,2021,8734,8521,121
+Equatorial Guinea,Jul,2021,8880,8637,123
+Equatorial Guinea,Aug,2021,9010,8798,123
+Eritrea,Jan,2020,0,0,0
+Eritrea,Feb,2020,0,0,0
+Eritrea,Mar,2020,15,0,0
+Eritrea,Apr,2020,39,26,0
+Eritrea,May,2020,39,39,0
+Eritrea,Jun,2020,203,56,0
+Eritrea,Jul,2020,279,225,0
+Eritrea,Aug,2020,319,284,0
+Eritrea,Sep,2020,375,341,0
+Eritrea,Oct,2020,463,412,0
+Eritrea,Nov,2020,577,498,0
+Eritrea,Dec,2020,1320,676,3
+Eritrea,Jan,2021,2135,1594,7
+Eritrea,Feb,2021,2847,2253,7
+Eritrea,Mar,2021,3285,3029,10
+Eritrea,Apr,2021,3671,3492,10
+Eritrea,May,2021,4094,3853,14
+Eritrea,Jun,2021,6009,5512,23
+Eritrea,Jul,2021,6547,6444,36
+Eritrea,Aug,2021,6618,6514,37
+Eswatini,Jan,2020,0,0,0
+Eswatini,Feb,2020,0,0,0
+Eswatini,Mar,2020,9,1,0
+Eswatini,Apr,2020,100,12,1
+Eswatini,May,2020,285,189,2
+Eswatini,Jun,2020,812,408,11
+Eswatini,Jul,2020,2648,1214,41
+Eswatini,Aug,2020,4577,3529,91
+Eswatini,Sep,2020,5482,4912,109
+Eswatini,Oct,2020,5917,5646,117
+Eswatini,Nov,2020,6419,6006,122
+Eswatini,Dec,2020,9358,7073,205
+Eswatini,Jan,2021,15711,10478,565
+Eswatini,Feb,2021,17014,14676,652
+Eswatini,Mar,2021,17337,16528,667
+Eswatini,Apr,2021,18458,17743,671
+Eswatini,May,2021,18595,17874,673
+Eswatini,Jun,2021,19084,18107,678
+Eswatini,Jul,2021,25979,20918,787
+Eswatini,Aug,2021,39530,24763,984
+Ethiopia,Jan,2020,0,0,0
+Ethiopia,Feb,2020,0,0,0
+Ethiopia,Mar,2020,26,2,0
+Ethiopia,Apr,2020,131,59,3
+Ethiopia,May,2020,1172,209,11
+Ethiopia,Jun,2020,5846,2444,103
+Ethiopia,Jul,2020,17530,6950,274
+Ethiopia,Aug,2020,52131,18994,809
+Ethiopia,Sep,2020,75368,31204,1198
+Ethiopia,Oct,2020,96169,52517,1469
+Ethiopia,Nov,2020,110554,73808,1709
+Ethiopia,Dec,2020,124264,112096,1923
+Ethiopia,Jan,2021,137650,122862,2093
+Ethiopia,Feb,2021,159072,134858,2365
+Ethiopia,Mar,2021,206558,158109,2865
+Ethiopia,Apr,2021,257442,198862,3687
+Ethiopia,May,2021,271541,239288,4164
+Ethiopia,Jun,2021,276174,260372,4320
+Ethiopia,Jul,2021,280365,263500,4385
+Ethiopia,Aug,2021,293737,264872,4539
+Gabon,Jan,2020,0,0,0
+Gabon,Feb,2020,0,0,0
+Gabon,Mar,2020,18,0,1
+Gabon,Apr,2020,276,67,3
+Gabon,May,2020,2655,722,17
+Gabon,Jun,2020,5394,2420,42
+Gabon,Jul,2020,7352,4943,49
+Gabon,Aug,2020,8533,7264,53
+Gabon,Sep,2020,8766,8005,54
+Gabon,Oct,2020,8968,8698,55
+Gabon,Nov,2020,9214,9066,60
+Gabon,Dec,2020,9571,9388,64
+Gabon,Jan,2021,10748,10260,68
+Gabon,Feb,2021,14564,13143,83
+Gabon,Mar,2021,19550,16609,118
+Gabon,Apr,2021,22825,19629,139
+Gabon,May,2021,24535,22118,152
+Gabon,Jun,2021,25031,24598,159
+Gabon,Jul,2021,25384,25166,163
+Gabon,Aug,2021,25667,25309,163
+Gambia,Jan,2020,0,0,0
+Gambia,Feb,2020,0,0,0
+Gambia,Mar,2020,4,0,1
+Gambia,Apr,2020,11,8,1
+Gambia,May,2020,25,20,1
+Gambia,Jun,2020,49,27,2
+Gambia,Jul,2020,498,68,9
+Gambia,Aug,2020,3029,1267,97
+Gambia,Sep,2020,3585,2224,115
+Gambia,Oct,2020,3672,3196,119
+Gambia,Nov,2020,3743,3607,123
+Gambia,Dec,2020,3800,3669,124
+Gambia,Jan,2021,4139,3803,131
+Gambia,Feb,2021,4735,4111,150
+Gambia,Mar,2021,5459,5070,165
+Gambia,Apr,2021,5901,5419,175
+Gambia,May,2021,5989,5786,178
+Gambia,Jun,2021,6079,5867,181
+Gambia,Jul,2021,8296,7122,226
+Gambia,Aug,2021,9470,8205,300
+Ghana,Jan,2020,0,0,0
+Ghana,Feb,2020,0,0,0
+Ghana,Mar,2020,152,0,5
+Ghana,Apr,2020,2074,212,17
+Ghana,May,2020,8070,2947,36
+Ghana,Jun,2020,18134,13550,117
+Ghana,Jul,2020,37812,34313,191
+Ghana,Aug,2020,44296,42963,276
+Ghana,Sep,2020,46726,45964,301
+Ghana,Oct,2020,48511,47372,320
+Ghana,Nov,2020,52096,50924,325
+Ghana,Dec,2020,55168,53928,335
+Ghana,Jan,2021,68559,62340,433
+Ghana,Feb,2021,84750,78924,620
+Ghana,Mar,2021,90782,88585,748
+Ghana,Apr,2021,92740,90376,780
+Ghana,May,2021,94011,92057,785
+Ghana,Jun,2021,95642,93288,795
+Ghana,Jul,2021,103019,97213,823
+Ghana,Aug,2021,112928,105622,823
+Guinea,Jan,2020,0,0,0
+Guinea,Feb,2020,0,0,0
+Guinea,Mar,2020,31,1,0
+Guinea,Apr,2020,1537,342,7
+Guinea,May,2020,3844,2135,23
+Guinea,Jun,2020,5404,4346,33
+Guinea,Jul,2020,7317,6480,46
+Guinea,Aug,2020,9479,8527,59
+Guinea,Sep,2020,10700,10039,66
+Guinea,Oct,2020,12195,10589,73
+Guinea,Nov,2020,13143,12154,76
+Guinea,Dec,2020,13784,13153,81
+Guinea,Jan,2021,14555,14228,83
+Guinea,Feb,2021,16081,14994,91
+Guinea,Mar,2021,20228,16832,128
+Guinea,Apr,2021,22247,19685,144
+Guinea,May,2021,23194,21193,162
+Guinea,Jun,2021,23807,22528,172
+Guinea,Jul,2021,25914,24327,232
+Guinea,Aug,2021,28705,26107,309
+Guinea-Bissau,Jan,2020,0,0,0
+Guinea-Bissau,Feb,2020,0,0,0
+Guinea-Bissau,Mar,2020,8,0,0
+Guinea-Bissau,Apr,2020,205,19,1
+Guinea-Bissau,May,2020,1256,42,8
+Guinea-Bissau,Jun,2020,1654,317,24
+Guinea-Bissau,Jul,2020,1981,893,26
+Guinea-Bissau,Aug,2020,2245,1226,38
+Guinea-Bissau,Sep,2020,2362,1638,39
+Guinea-Bissau,Oct,2020,2413,1848,41
+Guinea-Bissau,Nov,2020,2441,2327,44
+Guinea-Bissau,Dec,2020,2453,2396,45
+Guinea-Bissau,Jan,2021,2635,2426,45
+Guinea-Bissau,Feb,2021,3262,2613,48
+Guinea-Bissau,Mar,2021,3661,2982,63
+Guinea-Bissau,Apr,2021,3736,3327,67
+Guinea-Bissau,May,2021,3770,3521,68
+Guinea-Bissau,Jun,2021,3869,3589,69
+Guinea-Bissau,Jul,2021,4498,3969,76
+Guinea-Bissau,Aug,2021,5496,4313,99
+Kenya,Jan,2020,0,0,0
+Kenya,Feb,2020,0,0,0
+Kenya,Mar,2020,59,1,1
+Kenya,Apr,2020,396,144,17
+Kenya,May,2020,1962,478,64
+Kenya,Jun,2020,6366,2039,148
+Kenya,Jul,2020,20636,8165,341
+Kenya,Aug,2020,34201,19893,577
+Kenya,Sep,2020,38529,24908,711
+Kenya,Oct,2020,55192,36963,996
+Kenya,Nov,2020,83618,55344,1469
+Kenya,Dec,2020,96458,78737,1670
+Kenya,Jan,2021,100773,83907,1763
+Kenya,Feb,2021,105973,86678,1856
+Kenya,Mar,2021,134058,92679,2153
+Kenya,Apr,2021,159318,108565,2724
+Kenya,May,2021,170735,116847,3172
+Kenya,Jun,2021,184161,125684,3634
+Kenya,Jul,2021,203213,188936,3931
+Kenya,Aug,2021,227077,199439,4435
+Lesotho,Jan,2020,0,0,0
+Lesotho,Feb,2020,0,0,0
+Lesotho,Mar,2020,0,0,0
+Lesotho,Apr,2020,0,0,0
+Lesotho,May,2020,2,1,0
+Lesotho,Jun,2020,27,4,0
+Lesotho,Jul,2020,604,144,13
+Lesotho,Aug,2020,1085,528,31
+Lesotho,Sep,2020,1595,873,36
+Lesotho,Oct,2020,1953,975,44
+Lesotho,Nov,2020,2109,1278,44
+Lesotho,Dec,2020,3094,1480,51
+Lesotho,Jan,2021,8664,2552,172
+Lesotho,Feb,2021,10491,3745,292
+Lesotho,Mar,2021,10706,4471,315
+Lesotho,Apr,2021,10731,6267,316
+Lesotho,May,2021,10831,6434,326
+Lesotho,Jun,2021,11416,6457,329
+Lesotho,Jul,2021,13603,6664,377
+Lesotho,Aug,2021,14371,6711,400
+Liberia,Jan,2020,0,0,0
+Liberia,Feb,2020,0,0,0
+Liberia,Mar,2020,3,0,0
+Liberia,Apr,2020,152,45,18
+Liberia,May,2020,296,159,27
+Liberia,Jun,2020,804,335,37
+Liberia,Jul,2020,1189,673,75
+Liberia,Aug,2020,1305,1158,82
+Liberia,Sep,2020,1344,1225,82
+Liberia,Oct,2020,1433,1283,82
+Liberia,Nov,2020,1595,1343,83
+Liberia,Dec,2020,1779,1406,83
+Liberia,Jan,2021,1944,1760,84
+Liberia,Feb,2021,2014,1884,85
+Liberia,Mar,2021,2053,1899,85
+Liberia,Apr,2021,2099,1949,85
+Liberia,May,2021,2179,2033,86
+Liberia,Jun,2021,3900,2315,127
+Liberia,Jul,2021,5404,2715,148
+Liberia,Aug,2021,5518,2715,148
+Libya,Jan,2020,0,0,0
+Libya,Feb,2020,0,0,0
+Libya,Mar,2020,10,0,0
+Libya,Apr,2020,61,18,3
+Libya,May,2020,156,52,5
+Libya,Jun,2020,824,209,24
+Libya,Jul,2020,3621,618,74
+Libya,Aug,2020,14624,1676,242
+Libya,Sep,2020,35208,19894,559
+Libya,Oct,2020,62045,35853,871
+Libya,Nov,2020,83417,54209,1196
+Libya,Dec,2020,100744,73252,1487
+Libya,Jan,2021,119402,99586,1883
+Libya,Feb,2021,134127,121116,2210
+Libya,Mar,2021,159980,147864,2680
+Libya,Apr,2021,177508,163191,3029
+Libya,May,2021,186072,172117,3127
+Libya,Jun,2021,193905,178621,3198
+Libya,Jul,2021,253436,192184,3548
+Libya,Aug,2021,293532,212239,4017
+Madagascar,Jan,2020,0,0,0
+Madagascar,Feb,2020,0,0,0
+Madagascar,Mar,2020,46,0,0
+Madagascar,Apr,2020,132,92,0
+Madagascar,May,2020,771,168,6
+Madagascar,Jun,2020,2214,994,20
+Madagascar,Jul,2020,10868,7807,106
+Madagascar,Aug,2020,14863,13832,192
+Madagascar,Sep,2020,16408,15301,230
+Madagascar,Oct,2020,17111,16409,244
+Madagascar,Nov,2020,17341,16657,251
+Madagascar,Dec,2020,17714,17228,261
+Madagascar,Jan,2021,19065,18215,281
+Madagascar,Feb,2021,20155,19543,300
+Madagascar,Mar,2021,24696,22132,433
+Madagascar,Apr,2021,37296,32115,654
+Madagascar,May,2021,41342,40489,840
+Madagascar,Jun,2021,42216,41883,911
+Madagascar,Jul,2021,42654,42359,941
+Madagascar,Aug,2021,42843,42484,941
+Malawi,Jan,2020,0,0,0
+Malawi,Feb,2020,0,0,0
+Malawi,Mar,2020,0,0,0
+Malawi,Apr,2020,37,9,3
+Malawi,May,2020,336,42,4
+Malawi,Jun,2020,1342,271,16
+Malawi,Jul,2020,4078,1875,114
+Malawi,Aug,2020,5566,3160,175
+Malawi,Sep,2020,5773,4263,179
+Malawi,Oct,2020,5930,5323,184
+Malawi,Nov,2020,6028,5454,185
+Malawi,Dec,2020,6583,5705,189
+Malawi,Jan,2021,23963,8615,702
+Malawi,Feb,2021,31945,18874,1044
+Malawi,Mar,2021,33551,30272,1117
+Malawi,Apr,2021,34078,32051,1148
+Malawi,May,2021,34338,32616,1155
+Malawi,Jun,2021,36126,33169,1196
+Malawi,Jul,2021,52347,38005,1513
+Malawi,Aug,2021,59249,41903,1513
+Mali,Jan,2020,0,0,0
+Mali,Feb,2020,0,0,0
+Mali,Mar,2020,28,0,2
+Mali,Apr,2020,490,135,26
+Mali,May,2020,1265,716,77
+Mali,Jun,2020,2181,1474,116
+Mali,Jul,2020,2535,1937,124
+Mali,Aug,2020,2776,2169,126
+Mali,Sep,2020,3118,2453,131
+Mali,Oct,2020,3554,2753,136
+Mali,Nov,2020,4710,3206,156
+Mali,Dec,2020,7090,4650,269
+Mali,Jan,2021,8091,5945,330
+Mali,Feb,2021,8376,6402,353
+Mali,Mar,2021,10042,6830,385
+Mali,Apr,2021,13858,8560,484
+Mali,May,2021,14267,9733,517
+Mali,Jun,2021,14426,10059,525
+Mali,Jul,2021,14584,13945,531
+Mali,Aug,2021,14740,14001,531
+Mauritania,Jan,2020,0,0,0
+Mauritania,Feb,2020,0,0,0
+Mauritania,Mar,2020,6,2,1
+Mauritania,Apr,2020,8,6,1
+Mauritania,May,2020,530,36,26
+Mauritania,Jun,2020,4363,1622,129
+Mauritania,Jul,2020,6310,4898,157
+Mauritania,Aug,2020,7048,6464,159
+Mauritania,Sep,2020,7502,7120,161
+Mauritania,Oct,2020,7717,7438,163
+Mauritania,Nov,2020,8601,7732,177
+Mauritania,Dec,2020,14364,11380,347
+Mauritania,Jan,2021,16635,15676,422
+Mauritania,Feb,2021,17207,16563,441
+Mauritania,Mar,2021,17847,17093,449
+Mauritania,Apr,2021,18402,17687,455
+Mauritania,May,2021,19547,18513,463
+Mauritania,Jun,2021,20808,19790,489
+Mauritania,Jul,2021,25691,22228,538
+Mauritania,Aug,2021,31390,24875,538
+Mauritius,Jan,2020,0,0,0
+Mauritius,Feb,2020,0,0,0
+Mauritius,Mar,2020,143,0,5
+Mauritius,Apr,2020,336,310,10
+Mauritius,May,2020,338,322,10
+Mauritius,Jun,2020,344,326,10
+Mauritius,Jul,2020,347,332,10
+Mauritius,Aug,2020,356,335,10
+Mauritius,Sep,2020,381,344,10
+Mauritius,Oct,2020,441,398,10
+Mauritius,Nov,2020,501,443,10
+Mauritius,Dec,2020,527,496,10
+Mauritius,Jan,2021,568,525,10
+Mauritius,Feb,2021,610,570,10
+Mauritius,Mar,2021,1028,643,12
+Mauritius,Apr,2021,1209,1084,17
+Mauritius,May,2021,1393,1193,18
+Mauritius,Jun,2021,1898,1411,18
+Mauritius,Jul,2021,4214,1854,19
+Mauritius,Aug,2021,7070,1854,19
+Mayotte,Jan,2020,0,0,0
+Mayotte,Feb,2020,0,0,0
+Mayotte,Mar,2020,94,10,1
+Mayotte,Apr,2020,539,235,4
+Mayotte,May,2020,1871,1385,21
+Mayotte,Jun,2020,2643,2341,34
+Mayotte,Jul,2020,2972,2729,39
+Mayotte,Aug,2020,3301,2964,40
+Mayotte,Sep,2020,3779,2964,42
+Mayotte,Oct,2020,4428,2964,44
+Mayotte,Nov,2020,5181,2964,49
+Mayotte,Dec,2020,5890,2964,55
+Mayotte,Jan,2021,8231,2964,61
+Mayotte,Feb,2021,16861,2964,109
+Mayotte,Mar,2021,19408,2964,161
+Mayotte,Apr,2021,20055,2964,170
+Mayotte,May,2021,19325,2964,173
+Mayotte,Jun,2021,19412,2964,174
+Mayotte,Jul,2021,19494,2964,174
+Mayotte,Aug,2021,19664,2964,174
+Morocco,Jan,2020,0,0,0
+Morocco,Feb,2020,0,0,0
+Morocco,Mar,2020,602,24,36
+Morocco,Apr,2020,4359,969,167
+Morocco,May,2020,7719,5334,202
+Morocco,Jun,2020,12854,9052,228
+Morocco,Jul,2020,25015,17960,367
+Morocco,Aug,2020,62590,47595,1141
+Morocco,Sep,2020,123653,102715,2194
+Morocco,Oct,2020,219084,181275,3695
+Morocco,Nov,2020,356336,305291,5846
+Morocco,Dec,2020,439193,407504,7388
+Morocco,Jan,2021,471157,449160,8275
+Morocco,Feb,2021,483654,469046,8623
+Morocco,Mar,2021,496097,483363,8818
+Morocco,Apr,2021,511249,497621,9023
+Morocco,May,2021,519216,507125,9147
+Morocco,Jun,2021,531361,517576,9296
+Morocco,Jul,2021,623528,561930,9785
+Morocco,Aug,2021,799775,707143,11587
+Mozambique,Jan,2020,0,0,0
+Mozambique,Feb,2020,0,0,0
+Mozambique,Mar,2020,8,0,0
+Mozambique,Apr,2020,79,10,0
+Mozambique,May,2020,254,92,2
+Mozambique,Jun,2020,889,232,5
+Mozambique,Jul,2020,1864,641,11
+Mozambique,Aug,2020,3916,2170,23
+Mozambique,Sep,2020,8728,5232,59
+Mozambique,Oct,2020,12869,10437,92
+Mozambique,Nov,2020,15701,13729,131
+Mozambique,Dec,2020,18642,16663,166
+Mozambique,Jan,2021,38654,23955,367
+Mozambique,Feb,2021,59350,41096,641
+Mozambique,Mar,2021,67579,56409,775
+Mozambique,Apr,2021,69917,65913,814
+Mozambique,May,2021,70795,69525,836
+Mozambique,Jun,2021,76404,71205,878
+Mozambique,Jul,2021,122028,88380,1434
+Mozambique,Aug,2021,142013,114041,1783
+Namibia,Jan,2020,0,0,0
+Namibia,Feb,2020,0,0,0
+Namibia,Mar,2020,11,2,0
+Namibia,Apr,2020,16,8,0
+Namibia,May,2020,24,14,0
+Namibia,Jun,2020,205,24,0
+Namibia,Jul,2020,2129,166,10
+Namibia,Aug,2020,7550,3327,74
+Namibia,Sep,2020,11265,9014,121
+Namibia,Oct,2020,12935,11036,133
+Namibia,Nov,2020,14345,13439,151
+Namibia,Dec,2020,23941,20076,205
+Namibia,Jan,2021,33944,32378,352
+Namibia,Feb,2021,38845,36261,424
+Namibia,Mar,2021,44139,41848,523
+Namibia,Apr,2021,48654,46238,643
+Namibia,May,2021,55549,50675,830
+Namibia,Jun,2021,91208,67780,1556
+Namibia,Jul,2021,119285,95911,2871
+Namibia,Aug,2021,123483,108551,2871
+Niger,Jan,2020,0,0,0
+Niger,Feb,2020,0,0,0
+Niger,Mar,2020,33,0,3
+Niger,Apr,2020,719,452,32
+Niger,May,2020,957,839,64
+Niger,Jun,2020,1074,943,67
+Niger,Jul,2020,1124,1024,69
+Niger,Aug,2020,1176,1088,69
+Niger,Sep,2020,1197,1114,69
+Niger,Oct,2020,1220,1137,69
+Niger,Nov,2020,1548,1210,72
+Niger,Dec,2020,3327,1836,104
+Niger,Jan,2021,4517,3770,159
+Niger,Feb,2021,4740,4265,172
+Niger,Mar,2021,5021,4641,187
+Niger,Apr,2021,5228,4851,191
+Niger,May,2021,5410,5090,192
+Niger,Jun,2021,5489,5206,193
+Niger,Jul,2021,5623,5342,195
+Niger,Aug,2021,5761,5422,195
+Nigeria,Jan,2020,0,0,0
+Nigeria,Feb,2020,1,0,0
+Nigeria,Mar,2020,139,9,2
+Nigeria,Apr,2020,1930,317,57
+Nigeria,May,2020,10161,3007,287
+Nigeria,Jun,2020,25694,9746,590
+Nigeria,Jul,2020,43151,19565,879
+Nigeria,Aug,2020,54008,41638,1013
+Nigeria,Sep,2020,58848,50358,1112
+Nigeria,Oct,2020,62853,58675,1144
+Nigeria,Nov,2020,67557,63282,1173
+Nigeria,Dec,2020,87606,73713,1289
+Nigeria,Jan,2021,131242,104989,1586
+Nigeria,Feb,2021,155657,133791,1907
+Nigeria,Mar,2021,162891,151648,2057
+Nigeria,Apr,2021,165110,155101,2063
+Nigeria,May,2021,166518,158781,2099
+Nigeria,Jun,2021,167619,164244,2120
+Nigeria,Jul,2021,173908,164994,2137
+Nigeria,Aug,2021,182503,166203,2137
+Rwanda,Jan,2020,0,0,0
+Rwanda,Feb,2020,0,0,0
+Rwanda,Mar,2020,75,0,0
+Rwanda,Apr,2020,243,104,0
+Rwanda,May,2020,370,256,1
+Rwanda,Jun,2020,1025,447,2
+Rwanda,Jul,2020,2022,1106,5
+Rwanda,Aug,2020,4063,2013,16
+Rwanda,Sep,2020,4840,3154,29
+Rwanda,Oct,2020,5137,4879,35
+Rwanda,Nov,2020,5934,5516,49
+Rwanda,Dec,2020,8383,6542,92
+Rwanda,Jan,2021,15304,10087,196
+Rwanda,Feb,2021,18850,17313,261
+Rwanda,Mar,2021,21783,20182,307
+Rwanda,Apr,2021,25116,23234,335
+Rwanda,May,2021,26963,25683,353
+Rwanda,Jun,2021,39047,27272,438
+Rwanda,Jul,2021,70698,44853,757
+Rwanda,Aug,2021,82215,45051,757
+Sao Tome and Principe,Jan,2020,0,0,0
+Sao Tome and Principe,Feb,2020,0,0,0
+Sao Tome and Principe,Mar,2020,0,0,0
+Sao Tome and Principe,Apr,2020,14,4,1
+Sao Tome and Principe,May,2020,483,68,12
+Sao Tome and Principe,Jun,2020,714,252,13
+Sao Tome and Principe,Jul,2020,871,782,15
+Sao Tome and Principe,Aug,2020,896,851,15
+Sao Tome and Principe,Sep,2020,911,886,15
+Sao Tome and Principe,Oct,2020,948,904,16
+Sao Tome and Principe,Nov,2020,991,933,17
+Sao Tome and Principe,Dec,2020,1014,971,17
+Sao Tome and Principe,Jan,2021,1257,1023,17
+Sao Tome and Principe,Feb,2021,1786,1382,29
+Sao Tome and Principe,Mar,2021,2223,2092,34
+Sao Tome and Principe,Apr,2021,2302,2241,35
+Sao Tome and Principe,May,2021,2345,2291,37
+Sao Tome and Principe,Jun,2021,2366,2319,37
+Sao Tome and Principe,Jul,2021,2454,2358,37
+Sao Tome and Principe,Aug,2021,2517,2378,37
+Senegal,Jan,2020,0,0,0
+Senegal,Feb,2020,1,0,0
+Senegal,Mar,2020,175,40,1
+Senegal,Apr,2020,932,334,9
+Senegal,May,2020,3644,1801,42
+Senegal,Jun,2020,6792,4431,112
+Senegal,Jul,2020,10231,6776,205
+Senegal,Aug,2020,13610,9439,284
+Senegal,Sep,2020,14981,12437,311
+Senegal,Oct,2020,15615,14853,324
+Senegal,Nov,2020,16088,15607,333
+Senegal,Dec,2020,19139,17254,410
+Senegal,Jan,2021,26523,21970,628
+Senegal,Feb,2021,34520,28894,872
+Senegal,Mar,2021,38705,37321,1051
+Senegal,Apr,2021,40344,39083,1107
+Senegal,May,2021,41416,40070,1139
+Senegal,Jun,2021,43128,41429,1166
+Senegal,Jul,2021,62290,47136,1353
+Senegal,Aug,2021,71628,52014,1648
+Seychelles,Jan,2020,0,0,0
+Seychelles,Feb,2020,0,0,0
+Seychelles,Mar,2020,10,0,0
+Seychelles,Apr,2020,11,6,0
+Seychelles,May,2020,11,11,0
+Seychelles,Jun,2020,81,11,0
+Seychelles,Jul,2020,114,39,0
+Seychelles,Aug,2020,136,127,0
+Seychelles,Sep,2020,144,140,0
+Seychelles,Oct,2020,155,149,0
+Seychelles,Nov,2020,183,162,0
+Seychelles,Dec,2020,226,214,0
+Seychelles,Jan,2021,1186,987,4
+Seychelles,Feb,2021,2592,2287,11
+Seychelles,Mar,2021,4114,3745,20
+Seychelles,Apr,2021,5838,5101,27
+Seychelles,May,2021,11468,9936,40
+Seychelles,Jun,2021,15579,14365,68
+Seychelles,Jul,2021,18189,17538,90
+Seychelles,Aug,2021,19390,18161,90
+Sierra Leone,Jan,2020,0,0,0
+Sierra Leone,Feb,2020,0,0,0
+Sierra Leone,Mar,2020,1,0,0
+Sierra Leone,Apr,2020,124,21,7
+Sierra Leone,May,2020,861,454,46
+Sierra Leone,Jun,2020,1462,974,60
+Sierra Leone,Jul,2020,1823,1362,67
+Sierra Leone,Aug,2020,2026,1594,70
+Sierra Leone,Sep,2020,2231,1687,72
+Sierra Leone,Oct,2020,2366,1800,74
+Sierra Leone,Nov,2020,2412,1838,74
+Sierra Leone,Dec,2020,2611,1892,76
+Sierra Leone,Jan,2021,3593,2282,79
+Sierra Leone,Feb,2021,3887,2628,79
+Sierra Leone,Mar,2021,3980,2812,79
+Sierra Leone,Apr,2021,4054,3076,79
+Sierra Leone,May,2021,4147,3131,79
+Sierra Leone,Jun,2021,5575,3522,100
+Sierra Leone,Jul,2021,6283,4270,120
+Sierra Leone,Aug,2021,6352,4324,121
+Somalia,Jan,2020,0,0,0
+Somalia,Feb,2020,0,0,0
+Somalia,Mar,2020,5,1,0
+Somalia,Apr,2020,601,31,28
+Somalia,May,2020,1976,348,73
+Somalia,Jun,2020,2924,932,90
+Somalia,Jul,2020,3212,1562,93
+Somalia,Aug,2020,3310,2579,93
+Somalia,Sep,2020,3588,2946,99
+Somalia,Oct,2020,3941,3185,104
+Somalia,Nov,2020,4451,3417,113
+Somalia,Dec,2020,4714,3612,130
+Somalia,Jan,2021,4784,3666,130
+Somalia,Feb,2021,7257,3808,239
+Somalia,Mar,2021,11164,4819,529
+Somalia,Apr,2021,13915,5847,713
+Somalia,May,2021,14662,6764,769
+Somalia,Jun,2021,14946,7246,775
+Somalia,Jul,2021,15403,7533,811
+Somalia,Aug,2021,16535,7854,897
+South Africa,Jan,2020,0,0,0
+South Africa,Feb,2020,0,0,0
+South Africa,Mar,2020,1326,31,3
+South Africa,Apr,2020,5350,2073,103
+South Africa,May,2020,32683,16809,651
+South Africa,Jun,2020,151209,73543,2625
+South Africa,Jul,2020,493183,326171,8005
+South Africa,Aug,2020,627041,540923,14149
+South Africa,Sep,2020,674339,608112,16734
+South Africa,Oct,2020,725452,654182,19276
+South Africa,Nov,2020,790004,731242,21535
+South Africa,Dec,2020,1057161,879671,28469
+South Africa,Jan,2021,1453761,1299620,44164
+South Africa,Feb,2021,1513393,1430259,49993
+South Africa,Mar,2021,1548157,1474319,52846
+South Africa,Apr,2021,1581210,1505620,54350
+South Africa,May,2021,1665616,1559337,56506
+South Africa,Jun,2021,1973972,1748042,60647
+South Africa,Jul,2021,2447454,2222338,70018
+South Africa,Aug,2021,2666964,2418988,70018
+South Sudan,Jan,2020,0,0,0
+South Sudan,Feb,2020,0,0,0
+South Sudan,Mar,2020,0,0,0
+South Sudan,Apr,2020,34,0,0
+South Sudan,May,2020,994,6,10
+South Sudan,Jun,2020,2007,279,38
+South Sudan,Jul,2020,2322,1195,46
+South Sudan,Aug,2020,2527,1296,47
+South Sudan,Sep,2020,2704,2553,49
+South Sudan,Oct,2020,2926,2673,58
+South Sudan,Nov,2020,3109,2954,61
+South Sudan,Dec,2020,3556,3131,63
+South Sudan,Jan,2021,4067,3621,65
+South Sudan,Feb,2021,8010,4217,94
+South Sudan,Mar,2021,10194,9710,112
+South Sudan,Apr,2021,10583,10312,115
+South Sudan,May,2021,10692,10514,115
+South Sudan,Jun,2021,10854,10514,117
+South Sudan,Jul,2021,11056,10514,119
+South Sudan,Aug,2021,11243,10514,120
+Sudan,Jan,2020,0,0,0
+Sudan,Feb,2020,0,0,0
+Sudan,Mar,2020,7,0,2
+Sudan,Apr,2020,442,39,31
+Sudan,May,2020,5173,1522,298
+Sudan,Jun,2020,9663,4624,604
+Sudan,Jul,2020,11738,6137,752
+Sudan,Aug,2020,13189,6612,823
+Sudan,Sep,2020,13653,6764,836
+Sudan,Oct,2020,13819,6764,837
+Sudan,Nov,2020,18254,10493,1265
+Sudan,Dec,2020,25730,15240,1576
+Sudan,Jan,2021,29488,21504,1812
+Sudan,Feb,2021,30443,23046,1892
+Sudan,Mar,2021,32128,24339,2095
+Sudan,Apr,2021,34054,27152,2365
+Sudan,May,2021,35656,29364,2662
+Sudan,Jun,2021,36709,30543,2760
+Sudan,Jul,2021,37440,30867,2778
+Sudan,Aug,2021,37633,30867,2778
+Tanzania,Jan,2020,0,0,0
+Tanzania,Feb,2020,0,0,0
+Tanzania,Mar,2020,19,1,0
+Tanzania,Apr,2020,480,167,16
+Tanzania,May,2020,509,183,21
+Tanzania,Jun,2020,509,183,21
+Tanzania,Jul,2020,509,183,21
+Tanzania,Aug,2020,509,183,21
+Tanzania,Sep,2020,509,183,21
+Tanzania,Oct,2020,509,183,21
+Tanzania,Nov,2020,509,183,21
+Tanzania,Dec,2020,509,183,21
+Tanzania,Jan,2021,509,183,21
+Tanzania,Feb,2021,509,183,21
+Tanzania,Mar,2021,509,183,21
+Tanzania,Apr,2021,509,183,21
+Tanzania,May,2021,509,183,21
+Tanzania,Jun,2021,509,183,21
+Tanzania,Jul,2021,509,183,21
+Tanzania,Aug,2021,509,183,21
+Togo,Jan,2020,0,0,0
+Togo,Feb,2020,0,0,0
+Togo,Mar,2020,26,10,1
+Togo,Apr,2020,108,65,7
+Togo,May,2020,433,211,13
+Togo,Jun,2020,649,402,14
+Togo,Jul,2020,940,641,19
+Togo,Aug,2020,1399,1005,28
+Togo,Sep,2020,1783,1348,48
+Togo,Oct,2020,2330,1670,57
+Togo,Nov,2020,2973,2498,64
+Togo,Dec,2020,3665,3457,68
+Togo,Jan,2021,5077,4288,77
+Togo,Feb,2021,6912,5680,84
+Togo,Mar,2021,10491,7923,109
+Togo,Apr,2021,12978,11160,123
+Togo,May,2021,13477,12888,125
+Togo,Jun,2021,13928,13533,129
+Togo,Jul,2021,15811,14470,152
+Togo,Aug,2021,19141,15185,172
+Tunisia,Jan,2020,0,0,0
+Tunisia,Feb,2020,0,0,0
+Tunisia,Mar,2020,394,2,16
+Tunisia,Apr,2020,994,305,43
+Tunisia,May,2020,1084,964,50
+Tunisia,Jun,2020,1175,1038,52
+Tunisia,Jul,2020,1552,1217,52
+Tunisia,Aug,2020,3963,1624,93
+Tunisia,Sep,2020,19721,2541,379
+Tunisia,Oct,2020,61115,2541,1348
+Tunisia,Nov,2020,98072,72473,3311
+Tunisia,Dec,2020,140557,105799,4730
+Tunisia,Jan,2021,210045,162223,6802
+Tunisia,Feb,2021,233669,198778,8022
+Tunisia,Mar,2021,255308,217928,8843
+Tunisia,Apr,2021,310734,261552,10808
+Tunisia,May,2021,346986,305055,12720
+Tunisia,Jun,2021,426879,356321,15065
+Tunisia,Jul,2021,595532,516831,20067
+Tunisia,Aug,2021,640897,558400,22537
+Uganda,Jan,2020,0,0,0
+Uganda,Feb,2020,0,0,0
+Uganda,Mar,2020,1,0,0
+Uganda,Apr,2020,83,52,0
+Uganda,May,2020,457,72,0
+Uganda,Jun,2020,893,819,0
+Uganda,Jul,2020,1176,1045,4
+Uganda,Aug,2020,3037,1489,32
+Uganda,Sep,2020,8287,4430,75
+Uganda,Oct,2020,12743,7556,112
+Uganda,Nov,2020,21035,9044,205
+Uganda,Dec,2020,35511,11878,265
+Uganda,Jan,2021,39606,14229,325
+Uganda,Feb,2021,40367,14989,334
+Uganda,Mar,2021,40924,40452,335
+Uganda,Apr,2021,41907,41422,342
+Uganda,May,2021,48676,46150,364
+Uganda,Jun,2021,82082,54158,1111
+Uganda,Jul,2021,94425,84959,2710
+Uganda,Aug,2021,118673,95325,2952
+Zambia,Jan,2020,0,0,0
+Zambia,Feb,2020,0,0,0
+Zambia,Mar,2020,34,0,0
+Zambia,Apr,2020,105,55,3
+Zambia,May,2020,1057,779,7
+Zambia,Jun,2020,1594,1329,24
+Zambia,Jul,2020,5963,3803,151
+Zambia,Aug,2020,12097,11469,288
+Zambia,Sep,2020,14759,13959,332
+Zambia,Oct,2020,16432,15680,349
+Zambia,Nov,2020,17647,16998,357
+Zambia,Dec,2020,20725,18660,388
+Zambia,Jan,2021,54217,48000,763
+Zambia,Feb,2021,78534,74498,1091
+Zambia,Mar,2021,88418,84592,1208
+Zambia,Apr,2021,91586,89933,1251
+Zambia,May,2021,95263,91956,1281
+Zambia,Jun,2021,154948,131792,2199
+Zambia,Jul,2021,195816,187236,3389
+Zambia,Aug,2021,203978,193547,3569
+Zimbabwe,Jan,2020,0,0,0
+Zimbabwe,Feb,2020,0,0,0
+Zimbabwe,Mar,2020,8,0,1
+Zimbabwe,Apr,2020,34,5,4
+Zimbabwe,May,2020,178,29,4
+Zimbabwe,Jun,2020,592,163,7
+Zimbabwe,Jul,2020,3170,1004,67
+Zimbabwe,Aug,2020,6498,5221,202
+Zimbabwe,Sep,2020,7839,6303,228
+Zimbabwe,Oct,2020,8368,7894,243
+Zimbabwe,Nov,2020,10035,8489,277
+Zimbabwe,Dec,2020,13868,11250,363
+Zimbabwe,Jan,2021,33389,26044,1217
+Zimbabwe,Feb,2021,36090,32666,1463
+Zimbabwe,Mar,2021,36883,34686,1523
+Zimbabwe,Apr,2021,38258,35612,1567
+Zimbabwe,May,2021,38961,36594,1596
+Zimbabwe,Jun,2021,49864,39123,1789
+Zimbabwe,Jul,2021,108860,75858,3532
+Zimbabwe,Aug,2021,122288,105486,4220
